@@ -181,6 +181,12 @@
     "slug": "atlas-by-harto"
   },
   {
+    "name": "Based Angels",
+    "type": "gallery",
+    "slug": "basedangels",
+    "id": "0f6796537fad9e01dccbfac26176c6d96f39ae68fd2e12af0a5677dd31a16f8di0"
+  },
+  {
     "name": "Be Right Back",
     "type": "parent",
     "ids": [
