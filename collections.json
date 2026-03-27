@@ -101,14 +101,6 @@
     "slug": "a_solemn_rose"
   },
   {
-    "name": "Add OrdTorches",
-    "type": "parent",
-    "slug": "ordtorches",
-    "ids": [
-      "d080f9aa909aa6a2e498d5db8326f2a0817d9f27bc20bade8c8e8cdf3c4aa128i0"
-    ]
-  },
-  {
     "name": "Aeons",
     "type": "parent",
     "ids": [
@@ -977,6 +969,14 @@
     "type": "gallery",
     "id": "d3e398bc0163028cdff538eb4ef84405d7584ffd8fd8223e51ab6d65e1e6e30ci0",
     "slug": "orangehaze"
+  },
+  {
+    "name": "Ord Torches",
+    "type": "parent",
+    "slug": "ordtorches",
+    "ids": [
+      "d080f9aa909aa6a2e498d5db8326f2a0817d9f27bc20bade8c8e8cdf3c4aa128i0"
+    ]
   },
   {
     "name": "Ordenza",
