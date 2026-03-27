@@ -454,6 +454,22 @@
     ]
   },
   {
+    "name": "DomoDucks (Serial Edition)",
+    "type": "parent",
+    "slug": "domoducks-serial-edition",
+    "ids": [
+      "3f409c1e27eb0ef45b2f5c0e099cd2320f055ec9fd60c5becbb9830533fb155bi0",
+      "fd01e718e3d663b200a3fac2cd4437c8b8ae5d4f82939c545c7f7ebe7aa7cc53i0",
+      "95173888a728edb29f7de067902d1d37c69fd80f4628fa2654b5f1665cd7abd9i0",
+      "7efb140d5cc0cdcede0c6f8ed50fceffb005556f0ace005a6c346dd12f9b2fe8i0",
+      "8772cc68085663393db9d0f118c44a8e66716499f586376cd06b9b7943158000i0",
+      "8025b5769aabae03bb8b777bd08781f7f62a0b63ac775d066eb23fa1802b9517i0",
+      "2e690ba02aa8bc8e98b6e452d548ff60956d1e75f85edc1a17657b52ed959184i0",
+      "7c8cc6a3f4fbb4029e30182b5d7acd2b1f61695bd13cc4f7f5414821d8c70b98i0",
+      "fc2d42d777adc0233105952d01506f54fa4d8a45d1d46097d40fca8a82eefbf5i0"
+    ]
+  },
+  {
     "name": "Doom by Glitch Studio",
     "type": "parent",
     "ids": [
