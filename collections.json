@@ -688,6 +688,12 @@
     "slug": "hashrate-hackers"
   },
   {
+    "name": "Howlin' Wolf",
+    "type": "gallery",
+    "id": "e8ebe7706cbbbe676539f46acb1fbc5590b60366e9e55268148b4d7cbb6df746i0",
+    "slug": "howlinwolf"
+  },
+  {
     "name": "I Don't Want To Die",
     "type": "parent",
     "ids": [
