@@ -33,7 +33,7 @@ const rawTitle = process.env.ISSUE_TITLE || sections['Collection Name'] || ''
 const name = rawTitle.replace(/^add\s+(?:collection[:\s]*)?/i, '').trim()
 const type = sections['Collection Type'] || ''
 const rawIds = sections['Inscription ID(s)'] || ''
-const slug = sections['Slug'] || ''
+const slug = (sections['Slug'] || '').toLowerCase().trim()
 
 const errors = []
 
