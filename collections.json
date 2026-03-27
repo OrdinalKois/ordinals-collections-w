@@ -438,6 +438,14 @@
     "slug": "dmt_vessels"
   },
   {
+    "name": "DomoDucks",
+    "type": "parent",
+    "slug": "domoducks",
+    "ids": [
+      "84defb5e7db11f047b4bc58685b65654980be4a55e254a510048a71e0e43e532i0"
+    ]
+  },
+  {
     "name": "Doom by Glitch Studio",
     "type": "parent",
     "ids": [
