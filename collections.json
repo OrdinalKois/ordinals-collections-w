@@ -312,6 +312,14 @@
     "slug": "blokchain-surveillance"
   },
   {
+    "name": "Blooming",
+    "type": "parent",
+    "ids": [
+      "67603d4352ae9b8fefdb1ba6d95b8c6f29914efd9394b770d9a424d67a7a22d6i0"
+    ],
+    "slug": "blooming"
+  },
+  {
     "name": "blueprints by Element Lee",
     "type": "parent",
     "ids": [
@@ -460,6 +468,12 @@
       "7c8cc6a3f4fbb4029e30182b5d7acd2b1f61695bd13cc4f7f5414821d8c70b98i0",
       "fc2d42d777adc0233105952d01506f54fa4d8a45d1d46097d40fca8a82eefbf5i0"
     ]
+  },
+  {
+    "name": "Don't Avoid Bright Lights",
+    "type": "gallery",
+    "id": "87815f0046685cc5d3f5c4ffc256be3cfca684319454396fe27b15fc59ad8054i0",
+    "slug": "dabl"
   },
   {
     "name": "Doom by Glitch Studio",
@@ -1575,6 +1589,12 @@
       "1618033960614c07ca0c3a04dd63f602279bb368e3ce5dbb2a06d1d8588fa71ei0"
     ],
     "slug": "worldwisewizards"
+  },
+  {
+    "name": "YONDER",
+    "type": "gallery",
+    "id": "bba5fe9c9c5a96ce45a324f6e920dbff65036892dc7fe1ae74ef35baee04c0c3i0",
+    "slug": "yonder"
   },
   {
     "name": "Yuna Revelation",
