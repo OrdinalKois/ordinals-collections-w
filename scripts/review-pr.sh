@@ -954,7 +954,7 @@ for num in "${mergeable[@]}"; do
   fi
   local_slugs=$(echo "$local_entries" | python3 -c "import sys,json; print(', '.join(e['slug'] for e in json.load(sys.stdin)))" 2>/dev/null)
 
-  local tag=$([[ "$MODE" == "issue" ]] && echo "Issue" || echo "PR")
+  tag=$([[ "$MODE" == "issue" ]] && echo "Issue" || echo "PR")
 
   if [[ "${item_status[$num]}" == "warnings" ]]; then
     echo -e "${YELLOW}${tag} #${num} has warnings!${RESET}"
@@ -965,7 +965,7 @@ for num in "${mergeable[@]}"; do
   case "$answer" in
     m|M)
       echo -n "Applying collections.json entries from ${tag} #${num}... "
-      local ref_tag=$([[ "$MODE" == "issue" ]] && echo "issue" || echo "PR")
+      ref_tag=$([[ "$MODE" == "issue" ]] && echo "issue" || echo "PR")
       commit_msg="Add ${local_slugs} (${ref_tag} #${num})"
       commit_url=""
       if commit_url=$(apply_collection_entries "$num" "$local_entries" "$commit_msg"); then
