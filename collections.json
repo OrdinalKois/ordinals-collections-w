@@ -928,6 +928,12 @@
     "slug": "modal"
   },
   {
+    "name": "Mongoose On Bitcoin",
+    "type": "gallery",
+    "id": "91e68ca01f554b00eaa5f8a87360aa48ed621979e3053be5302a4d4ade50d2d5i0",
+    "slug": "mongoose_on_bitcoin"
+  },
+  {
     "name": "Moonstone",
     "type": "parent",
     "ids": [
