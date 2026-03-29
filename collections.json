@@ -1406,11 +1406,9 @@
   },
   {
     "name": "Skullbros by Karmelo",
-    "type": "parent",
-    "ids": [
-      "e56091a8e0276f8faec19ee909d34bf7151fc2d3eb2219d6cb87e45fab8e6782i0"
-    ],
-    "slug": "skullbros"
+    "type": "gallery",
+    "slug": "skullbros",
+    "id": "53512dbb7a399bf27c22f5695aa63ec3cff19a0d801660688c28ca1252540566i0"
   },
   {
     "name": "Skullminati by Karmelo",
