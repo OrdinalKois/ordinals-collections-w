@@ -71,6 +71,30 @@
     "slug": "on1force_void_drives"
   },
   {
+    "name": "1/1 (2025) by PeePs",
+    "type": "parent",
+    "ids": [
+      "c9fd8f3f12154601d14b22e192535fe53392fa606b3bfec255dd15f172260e30i0"
+    ],
+    "slug": "1-1bypeeps2025"
+  },
+  {
+    "name": "1/1 by EP (2026)",
+    "type": "parent",
+    "ids": [
+      "b4b62be53d0eeaa7b5cd2d788c22a8a9cd830302843196e242306bcc39ebe70ci0"
+    ],
+    "slug": "1-1byep2026"
+  },
+  {
+    "name": "1/1 by PeePs (2026)",
+    "type": "parent",
+    "ids": [
+      "c8b4b90cf32a8bd094b141143704feaf3cf775618434167b9c77445e517f1b0ci0"
+    ],
+    "slug": "1-1bypeeps2026"
+  },
+  {
     "name": "1337 Zeros",
     "type": "parent",
     "ids": [
@@ -191,6 +215,14 @@
       "4bf30a3148877100763610fa7ffdaf6b1570031c64ef9fb49cad160693c359e9i0"
     ],
     "slug": "asicgenesis"
+  },
+  {
+    "name": "Asymmetric Hallucinations by EP",
+    "type": "parent",
+    "ids": [
+      "91abf6073453ba2a48400e9fbf86d828371c2ba8e6f3ef0927aba45670d5b68ei0"
+    ],
+    "slug": "ahbyep"
   },
   {
     "name": "Atlas by Harto",
@@ -578,6 +610,14 @@
       "9d71fc47daede70dde1dd4af7cdfffac18627f797d7542880ec6db2107ad62b6i0"
     ],
     "slug": "exo_recruits"
+  },
+  {
+    "name": "Expanding Consciousness by EP",
+    "type": "parent",
+    "ids": [
+      "675a3c23b8d67a847fd52a1329dfd0152480c556af380c98d47165f78038078bi0"
+    ],
+    "slug": "consc"
   },
   {
     "name": "Experiment 9",
@@ -1075,6 +1115,14 @@
     ]
   },
   {
+    "name": "On-Chain Genesis by PeePs",
+    "type": "parent",
+    "ids": [
+      "567aa0364f008d1f924754c2d1cb2de450cb11a6f87467334b9f42a6dbca9efbi0"
+    ],
+    "slug": "ocgbypeeps"
+  },
+  {
     "name": "OP_BIRD Derivatives",
     "type": "gallery",
     "id": "6bac06fdb3a0129e599807747162e9b7f4689ab81276c021cd08eb219a4d00d7i0",
@@ -1107,6 +1155,12 @@
     "type": "gallery",
     "slug": "ordigallery-pass",
     "id": "e011fc06bd2bb665d17b44e3f85ed6ed037e406ed9d15add2bfeddba3fdd7824i0"
+  },
+  {
+    "name": "Ordinal Hypocrites",
+    "type": "gallery",
+    "id": "baf2c2ae28584cffd25aeaa1ce931435f2aed0cd0bab12af8b2ff2050f60ac41i0",
+    "slug": "ordinal-hypocrites"
   },
   {
     "name": "Ordinal Kois",
@@ -1287,6 +1341,12 @@
     "slug": "bitcoin-radbros"
   },
   {
+    "name": "RandomKittens",
+    "type": "gallery",
+    "id": "43f7e8ca56870c15201e1713af7f1c4ff44bd1ad8661c544a376f36775a5054ei0",
+    "slug": "randomkittens"
+  },
+  {
     "name": "re[forms]",
     "type": "gallery",
     "id": "ef6cafe2be9742e3a6e559564f167fb9a6a818406372b4c5cbbf0217831f3939i0",
@@ -1395,6 +1455,14 @@
     "slug": "savages"
   },
   {
+    "name": "Sensations by EP",
+    "type": "parent",
+    "ids": [
+      "927c83ded4d631eeac9aafee040764fed49c43a44943df8fed47f4193b5de926i0"
+    ],
+    "slug": "sensationsbyep"
+  },
+  {
     "name": "Shibuya Station",
     "type": "parent",
     "ids": [
@@ -1495,6 +1563,12 @@
     "slug": "sparks"
   },
   {
+    "name": "Sportinals Euro Edition",
+    "type": "gallery",
+    "id": "fae870ab7cd9a2f01916c18b7c5ee6a1f1e018b352ac7e98d68bb887d6eff0b0i0",
+    "slug": "sportinals-euro"
+  },
+  {
     "name": "STEPEPES by LORS",
     "type": "parent",
     "ids": [
@@ -1517,6 +1591,14 @@
       "0a2d171764a05531f54d2a465b8184a8c39ddbc9a7ea2e42d220e4746045ec1ei0"
     ],
     "slug": "swarm"
+  },
+  {
+    "name": "Symphonies by EP",
+    "type": "parent",
+    "ids": [
+      "56592f485d7b27837342c957418f6fe9faec3087706e4d0319f819813f6de73ei0"
+    ],
+    "slug": "symphoniesbyep"
   },
   {
     "name": "Taproot Punks",
