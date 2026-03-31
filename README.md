@@ -45,6 +45,10 @@ Each entry includes:
 - [ord/ord](https://github.com/ordinals/ord) — Ordinals reference client
 - [The Wizards of Ord Inscriber](https://inscribe.dev) — Supports creating galleries directly from [Magic Eden collection JSON files](legacy/collections) ([demo](https://x.com/lifofifo/status/2021279780667036069))
 
+### Needs Info
+
+[`collections-needs-info.json`](collections-needs-info.json) tracks galleries where the inscription contains all the correct inscription IDs but has other issues such as incorrect collection title, missing inscription titles or traits, or other metadata problems. Each entry includes an `issues` array documenting what needs fixing.
+
 ### Legacy Data
 
 The [`legacy/`](legacy/) directory contains collection data originally sourced from Magic Eden, including per-collection inscription lists and metadata. This can be useful as reference when submitting new entries.
