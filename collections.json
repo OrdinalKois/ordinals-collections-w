@@ -332,6 +332,12 @@
     "slug": "bitcoinshrooms"
   },
   {
+    "name": "Bitcoiners",
+    "type": "gallery",
+    "id": "48d419535af99c2497fc57d87e960be1fee366c50fff503332f2b03dad2cf788i0",
+    "slug": "bitcoiners"
+  },
+  {
     "name": "Bitdream by Howie Lab",
     "type": "parent",
     "ids": [
@@ -1159,6 +1165,12 @@
       "e8a51ed779d37764718ad28427b9a9a982c3aa9b08ceb72d562ebdcb180d260fi0"
     ],
     "slug": "ogpebbles"
+  },
+  {
+    "name": "OG Satoshis",
+    "type": "gallery",
+    "id": "a82f37e57f7695651f674f768c109e949638bfb33fba99d5887f5cf87748be80i0",
+    "slug": "ogsatoshis"
   },
   {
     "name": "On The Way",
