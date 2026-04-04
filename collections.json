@@ -177,6 +177,12 @@
     "slug": "piraults-anne"
   },
   {
+    "name": "Apoptosis",
+    "type": "gallery",
+    "id": "3dc4623dd9ac1aaaa2cb6172ab3ec8922b085b995cdb7c30012d8d861a2fb3fai0",
+    "slug": "apoptosis"
+  },
+  {
     "name": "APOSTLES",
     "type": "parent",
     "ids": [
@@ -274,6 +280,12 @@
     "type": "gallery",
     "id": "1b974ae2fcaf2ced57aa5fb30213a792ceb5942ace1f065e08e2908e85c39c44i0",
     "slug": "boaf"
+  },
+  {
+    "name": "BitBlocks",
+    "type": "gallery",
+    "id": "87e6c9a15ebf5acf8803e074875bb918489dcc85bef36c7b5b56d842f8260c8ai0",
+    "slug": "bitblocks"
   },
   {
     "name": "BitBoy One Genesis",
@@ -500,6 +512,12 @@
       "dead5f33f9a0df9dae9ce33bc2dd035069302d35b85189a7ef7cf538543bc648i0"
     ],
     "slug": "dead-doges"
+  },
+  {
+    "name": "Dead Ordinals",
+    "type": "gallery",
+    "id": "dead1ae7e6bb46fb4a6c7324592284497b8de68469d73d259f0ff94866f82967i0",
+    "slug": "deadordinals"
   },
   {
     "name": "Dead Pepes",
@@ -1175,6 +1193,12 @@
     "id": "e011fc06bd2bb665d17b44e3f85ed6ed037e406ed9d15add2bfeddba3fdd7824i0"
   },
   {
+    "name": "Ordimutants",
+    "type": "gallery",
+    "id": "a11a87829cb6a6169311322d9268aa64c89d4457079cbf4d33887819c25dec70i0",
+    "slug": "ordimutants"
+  },
+  {
     "name": "Ordinal Hypocrites",
     "type": "gallery",
     "id": "baf2c2ae28584cffd25aeaa1ce931435f2aed0cd0bab12af8b2ff2050f60ac41i0",
@@ -1271,6 +1295,12 @@
     "type": "gallery",
     "id": "80b39fcf004acfd256455caa2a3c1466d2de166f70229778a27342f09b7d4253i0",
     "slug": "pixel-pepes"
+  },
+  {
+    "name": "Pizza Comrades",
+    "type": "gallery",
+    "id": "040126022bf16b78b722981819fa5ff555cf813abf9f4c6a2666cce088d1efcci0",
+    "slug": "pizza-comrades"
   },
   {
     "name": "Pizza Ninjas",
@@ -1397,6 +1427,14 @@
       "4799479ecdc3f5e23904a4db240310490248aae09c1b449cc8978fb56594d8a5i0"
     ],
     "slug": "recursions"
+  },
+  {
+    "name": "Refreshing!",
+    "type": "parent",
+    "ids": [
+      "dead019cd6b317c789cfaeeba195d095a0f10f387f2883d1d2f099dc39914952i0"
+    ],
+    "slug": "refreshing"
   },
   {
     "name": "Remnants of Obsidian by Billy Restey",
@@ -1827,6 +1865,12 @@
       "905a2ad38bbdefd9bc4e333d6eeec044c6943bb8cd0ccd8373136bc8e3294376i0"
     ],
     "slug": "ugly_souls"
+  },
+  {
+    "name": "Voxels",
+    "type": "gallery",
+    "id": "733638e129bbf9fd6c71234db60bdb8647cc1b8cc3b56fbc8fcd6d1f74a2b1cai0",
+    "slug": "voxels"
   },
   {
     "name": "Weapon of Mass Liberation by DocT x Vivid Gallery",
