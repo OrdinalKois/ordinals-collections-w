@@ -199,6 +199,12 @@
     "slug": "arcane"
   },
   {
+    "name": "Arcane Fragment by The O",
+    "type": "gallery",
+    "id": "435319b65428b7ffd1d9681fd2024e79f062cef8808764decca99dddb878c6e7i0",
+    "slug": "arcane-fragment"
+  },
+  {
     "name": "Arrangements",
     "type": "parent",
     "ids": [
@@ -294,6 +300,12 @@
       "8122cbbe09e5142049105881a40bcf1643e4a74e04158a5643aad54ab5d1aec1i0"
     ],
     "slug": "bitboy_one_genesis"
+  },
+  {
+    "name": "Bitco MIMI",
+    "type": "gallery",
+    "id": "99fb58d048ef42ada4475b23b082a6595e48203c0fa14f5223a802c335b07ea1i0",
+    "slug": "bitco-mimi"
   },
   {
     "name": "Bitcoin adoption",
@@ -1209,6 +1221,12 @@
     "type": "gallery",
     "id": "61c77de91b9068ea13377b5e5e56bf620e36e98f2fe90be17b52b2b78feb3992i0",
     "slug": "ordinalkois"
+  },
+  {
+    "name": "Ordinal MIMI",
+    "type": "gallery",
+    "id": "9ca1e4e7feaf3b08487679e6420d84b63753c781891b0a315b8c98ff28edf226i0",
+    "slug": "ordinal-mimi"
   },
   {
     "name": "Ordinal Shards by Billy Restey",
