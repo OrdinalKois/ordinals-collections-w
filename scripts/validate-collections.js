@@ -12,7 +12,7 @@ function error(message) {
   errors++
 }
 
-function validateEntries(collections, { label, validKeys, requireIssues, forbiddenSlugs }) {
+function validateEntries(collections, { label, validKeys, requireIssues, forbiddenSlugs, inscriptionIds }) {
   // Check alpha sort
   for (let i = 1; i < collections.length; i++) {
     if (collections[i].name.localeCompare(collections[i - 1].name) < 0) {
@@ -36,6 +36,14 @@ function validateEntries(collections, { label, validKeys, requireIssues, forbidd
 
     if (forbiddenSlugs && forbiddenSlugs.has(entry.slug)) {
       error(`[${label}] Slug "${entry.slug}" conflicts with collections.json`)
+    }
+
+    const entryIds = entry.id ? [entry.id] : (entry.ids || [])
+    for (const id of entryIds) {
+      if (inscriptionIds.has(id)) {
+        error(`[${label}] Duplicate inscription ID: "${id}" (in "${entry.slug}" and "${inscriptionIds.get(id)}")`)
+      }
+      inscriptionIds.set(id, entry.slug)
     }
   }
 
@@ -107,11 +115,14 @@ if (!Array.isArray(collections)) {
   process.exit(1)
 }
 
+const allInscriptionIds = new Map()
+
 validateEntries(collections, {
   label: 'collections.json',
   validKeys: VALID_KEYS,
   requireIssues: false,
   forbiddenSlugs: null,
+  inscriptionIds: allInscriptionIds,
 })
 
 const collectionSlugs = new Set(collections.map(e => e.slug))
@@ -137,6 +148,7 @@ if (needsInfo.length > 0) {
     validKeys: NEEDS_INFO_KEYS,
     requireIssues: true,
     forbiddenSlugs: collectionSlugs,
+    inscriptionIds: allInscriptionIds,
   })
 }
 
