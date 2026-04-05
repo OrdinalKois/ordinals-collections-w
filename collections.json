@@ -940,14 +940,6 @@
     "slug": "ink"
   },
   {
-    "name": "IRO by OGBE",
-    "type": "parent",
-    "ids": [
-      "24e40ad3deb6edff565eb16530297b8cd5f8a3e0578e5fade872269c6e86e31fi0"
-    ],
-    "slug": "irobyogbe"
-  },
-  {
     "name": "IRO BY OGBE",
     "type": "parent",
     "ids": [
