@@ -265,6 +265,12 @@
     "id": "0f6796537fad9e01dccbfac26176c6d96f39ae68fd2e12af0a5677dd31a16f8di0"
   },
   {
+    "name": "Bastille Day Fibz",
+    "type": "gallery",
+    "id": "9738fe7d52ee408fc1bd7a2120a08692b152b2166df3e1971aede0a19a9f874fi0",
+    "slug": "bastille_day_fibz_2024_limited_edition"
+  },
+  {
     "name": "Be Right Back",
     "type": "parent",
     "ids": [
@@ -484,6 +490,12 @@
     "slug": "cocks"
   },
   {
+    "name": "Catrin Fibz",
+    "type": "gallery",
+    "id": "963df53665ced63bef21665897f48e87a1db94fd1f7c133b2cd829156dbb4072i0",
+    "slug": "caterin_fibz_collection"
+  },
+  {
     "name": "CENTS",
     "type": "gallery",
     "id": "c871da405f1e0b955d135e789da88fe5a2c5d15c15d485235c7f10a05a827f71i0",
@@ -654,6 +666,12 @@
     "type": "gallery",
     "id": "c563885d67ed247c4793cf44f942d8c0ecabaec8cad9048e60f1aaf19350999di0",
     "slug": "eegun_by_ogbe"
+  },
+  {
+    "name": "Eito Bitto",
+    "type": "gallery",
+    "id": "c7036a23cd450116b9e2556a3aad42d17bcc9ef246ff53f1d30026dd5f8e39e5i0",
+    "slug": "eitobitto"
   },
   {
     "name": "Enigma by CyberSea x Vivid Gallery x OnChainMonkey®",
@@ -850,6 +868,12 @@
     "type": "gallery",
     "id": "a02f0894e8a0bee5c9d52d09ffdef98f67522017007b05a72b971fba9c5f55d1i0",
     "slug": "ghost-parrots"
+  },
+  {
+    "name": "GhostPxnks",
+    "type": "gallery",
+    "id": "25755b1250311c5b42cff57e923ea6ed9c2afd661d450d00dc60141973fbb336i0",
+    "slug": "ghostpxnks"
   },
   {
     "name": "GhostXXX",
@@ -1689,6 +1713,12 @@
     "slug": "sensationsbyep"
   },
   {
+    "name": "Sherlock Fibz",
+    "type": "gallery",
+    "id": "71a7a4a980e0a5fd078dd14d449c3563d4dc1279fe9e1892e0b6d885d0c1b311i0",
+    "slug": "sherlock_fibz_collection"
+  },
+  {
     "name": "Shibuya Station",
     "type": "parent",
     "ids": [
@@ -1859,6 +1889,12 @@
     "type": "gallery",
     "id": "3744f92c1eff17e1346644b5e5fb9c55f1d5d9992e6c5764d903c73f6fa46916i0",
     "slug": "tehspace"
+  },
+  {
+    "name": "Thanksgiving Fibz",
+    "type": "gallery",
+    "id": "69d3a6e6633e74cc0fe3460fa0e8336bfe964c56f9f95cbbbd55f9145026fccai0",
+    "slug": "thanksgiving_fibz_collection"
   },
   {
     "name": "The Astronomer's Daughter",
