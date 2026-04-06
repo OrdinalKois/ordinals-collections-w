@@ -28,6 +28,14 @@
     "slug": "the-unordinals"
   },
   {
+    "name": "🐱 Koshki by ⌴ Enchained.Games",
+    "type": "parent",
+    "ids": [
+      "3333facf2ab8b1d5bf3b74a8d266fbd7d7dcbf05de182c9be579a55e48d6db8ci0"
+    ],
+    "slug": "koshki"
+  },
+  {
     "name": "$DOG | Ordinals - SZN I Genesis",
     "type": "parent",
     "ids": [
@@ -480,6 +488,12 @@
       "0e0687608a554dc0c71aa27d04630c1e5df9e40b940d94c6e700cf8cbe7a11fbi0"
     ],
     "slug": "btc_substance"
+  },
+  {
+    "name": "BTCWC.Toilet",
+    "type": "gallery",
+    "id": "219edd90b343b507ef4b1de6516cce49dfc77dc22d02dbec60bd038c329be0cbi0",
+    "slug": "btcwc-toilet"
   },
   {
     "name": "C.O.C.K.S",
