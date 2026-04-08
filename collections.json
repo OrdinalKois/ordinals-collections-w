@@ -483,11 +483,9 @@
   },
   {
     "name": "BTC Substance by MDV",
-    "type": "parent",
-    "ids": [
-      "0e0687608a554dc0c71aa27d04630c1e5df9e40b940d94c6e700cf8cbe7a11fbi0"
-    ],
-    "slug": "btc_substance"
+    "type": "gallery",
+    "slug": "btc_substance",
+    "id": "0e00c686db9324f2f91e4a129b32e7353b2dadc24cfc7b5b9bd03af0034627eci0"
   },
   {
     "name": "BTCWC.Toilet",
@@ -839,11 +837,9 @@
   },
   {
     "name": "Galactic Gravity by MDV",
-    "type": "parent",
-    "ids": [
-      "3fab8c14d70ee46ef79ed5af405a956433d786da6f29cb230679e60f6a465177i0"
-    ],
-    "slug": "galactic_gravity"
+    "type": "gallery",
+    "slug": "galactic_gravity",
+    "id": "a17362a2e1835efdd5b220beeea2f174ba1b79b847e78dc3fc7f37f654b9992ai0"
   },
   {
     "name": "Gamer Geeks",
@@ -1018,6 +1014,14 @@
       "fd85f101314c737757ebe59b5d76c4e093365e3f6b214a5498db6662b0a7fca1i0"
     ],
     "slug": "jeetsonbtc"
+  },
+  {
+    "name": "Jovian Rift by MDV",
+    "type": "parent",
+    "ids": [
+      "ffdf2ae6a245dab670153e8fc59dfd35b925ba3f762cfe138d220663718ec7fei0"
+    ],
+    "slug": "jovian_rift"
   },
   {
     "name": "Karmz by Karmelo",
