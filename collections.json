@@ -1913,6 +1913,14 @@
     "slug": "sparks"
   },
   {
+    "name": "SPELLBOUND",
+    "type": "parent",
+    "ids": [
+      "451accbce30177c23a8cd42ab85131312a449359ada3c054aa147b054136fa3bi0"
+    ],
+    "slug": "spellbound"
+  },
+  {
     "name": "Sportinals Euro Edition",
     "type": "gallery",
     "id": "fae870ab7cd9a2f01916c18b7c5ee6a1f1e018b352ac7e98d68bb887d6eff0b0i0",
