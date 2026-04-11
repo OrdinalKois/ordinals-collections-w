@@ -1318,6 +1318,12 @@
     ]
   },
   {
+    "name": "OCG",
+    "type": "gallery",
+    "id": "6b89b57a64c0dffa177c25b3972eda4da943a206d73ab95ea8e4453fed9dab72i0",
+    "slug": "ocg"
+  },
+  {
     "name": "OCM Dimensions 300 by OnChainMonkey®",
     "type": "parent",
     "ids": [
@@ -1525,6 +1531,12 @@
       "a820bc531524a7fac1cdbce3d909a5312b9e51ab390adbd315d14337029fd422i0"
     ],
     "slug": "tism"
+  },
+  {
+    "name": "Originals",
+    "type": "gallery",
+    "id": "f4ddfc50505544dd05b5d9bd94f2950ad56b098ab5dcd8c86afd3074f302ba0bi0",
+    "slug": "originals-oto"
   },
   {
     "name": "ORIGINALS 1/1s for Prints/Editions \"2023-2025\" by Viola MissCode",
