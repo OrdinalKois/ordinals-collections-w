@@ -360,6 +360,12 @@
     "slug": "bitcoin-frogs"
   },
   {
+    "name": "Bitcoin Punks",
+    "type": "gallery",
+    "id": "d4d69e8d4c614dd4a4a7ac609243f48b5657af1af6d1ff22ecccb69d5ddc040di0",
+    "slug": "bitcoin-punks"
+  },
+  {
     "name": "Bitcoin Puppets",
     "type": "gallery",
     "id": "4dc81b56650b6b02720527939dc6898d1a7acfe140d04e939690e7806ab06adfi0",
@@ -1529,6 +1535,14 @@
       "8e22dc4497c3361f8c573521e52040c46d8dedb6d0be879478d6bc6d69a614c2i0"
     ],
     "slug": "ordinalsigmax"
+  },
+  {
+    "name": "ORDINALS CENTRAL PARK - Sketched PFPs by Viola MissCode",
+    "type": "parent",
+    "ids": [
+      "0000fe1acdda6205d6201c0754130fd286f5387263908fa96d16926307120d1fi0"
+    ],
+    "slug": "ordinals_central_park_by_viola"
   },
   {
     "name": "Ordinauts",
