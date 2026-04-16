@@ -1090,6 +1090,12 @@
     "slug": "karmz"
   },
   {
+    "name": "Krewbits",
+    "type": "gallery",
+    "id": "0286474c13335f543efe9e82fd7d8d0f3db2d65b32559d470068df21c21ae489i0",
+    "slug": "krewbits"
+  },
+  {
     "name": "Kyogen",
     "type": "parent",
     "ids": [
@@ -2261,6 +2267,12 @@
       "905a2ad38bbdefd9bc4e333d6eeec044c6943bb8cd0ccd8373136bc8e3294376i0"
     ],
     "slug": "ugly_souls"
+  },
+  {
+    "name": "Villagers",
+    "type": "gallery",
+    "id": "bee1003f87176f109665b76bae55053801c6ba003c94c0bd3fb5da80cf55c69ci0",
+    "slug": "villagers"
   },
   {
     "name": "Voxels",
