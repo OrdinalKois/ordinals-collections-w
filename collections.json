@@ -115,6 +115,12 @@
     "slug": "1-1bypeeps2026"
   },
   {
+    "name": "101 Fleas on Bitcoin by Viola MissCode",
+    "type": "gallery",
+    "id": "772a4f7892fb771a06e734a5e03c48286b5ed6ea30a19b5569011f4916146947i0",
+    "slug": "101_fleas_by_viola"
+  },
+  {
     "name": "1337 Zeros",
     "type": "parent",
     "ids": [
@@ -376,6 +382,12 @@
     "type": "gallery",
     "id": "56083a36b4032720b02c83fca482cf5e8154e82299029b4ed6338a31645514cci0",
     "slug": "bitcoinshrooms"
+  },
+  {
+    "name": "Bitcoin Weirdos",
+    "type": "gallery",
+    "id": "ee5022303dbdb2e30c3da28392f40893c318d35c0f05dba4ed62743ec26123b6i0",
+    "slug": "bitcoin-weirdos"
   },
   {
     "name": "Bitcoiners",
@@ -2262,11 +2274,9 @@
   },
   {
     "name": "US - Ugly Souls by Viola MissCode",
-    "type": "parent",
-    "ids": [
-      "905a2ad38bbdefd9bc4e333d6eeec044c6943bb8cd0ccd8373136bc8e3294376i0"
-    ],
-    "slug": "ugly_souls"
+    "type": "gallery",
+    "slug": "ugly_souls",
+    "id": "00a7ee747a6845a414dc06d4fbccd282ec84c3749f5061a85b9034dd7fe4e9dei0"
   },
   {
     "name": "Villagers",
