@@ -316,6 +316,14 @@
     "slug": "best-before-by-lemonhaze-x-ordinally"
   },
   {
+    "name": "Between The Acts by CRFTD",
+    "type": "parent",
+    "ids": [
+      "bfb55a807b893481d89c1c860d175e8f797515bd1699abeca4bf6423be0a6886i0"
+    ],
+    "slug": "between-the-acts"
+  },
+  {
     "name": "BIP666",
     "type": "gallery",
     "id": "c22489c6e3371c174486bcad8ed02b63dc3249648e7890f00755fb3e7429ffc9i0",
@@ -404,6 +412,20 @@
     "slug": "bitdream"
   },
   {
+    "name": "Bitmap City Vol. 1 by CRFTD",
+    "type": "gallery",
+    "id": "11bef86096c3623b9a86f6648bbc38b02b9044ea8c194da1d167cb3a888314ddi0",
+    "slug": "bitmap-city-vol-1"
+  },
+  {
+    "name": "Bitmap City Vol. 3 by CRFTD",
+    "type": "parent",
+    "ids": [
+      "90cc93d4d0ffc4c28e36a11682d21428b1f12afacfd9f8d60afb79c63fcee6fci0"
+    ],
+    "slug": "bitmap-city-vol-3"
+  },
+  {
     "name": "Bitmap Sunset",
     "type": "gallery",
     "id": "bd643db090ad9cfa671e4221c1b67f4b953f7f2c4e58c35d016d624cf7ad5072i0",
@@ -458,6 +480,12 @@
     "slug": "block_party_by_solemn"
   },
   {
+    "name": "bLOCKHeadz of pUNK Alley",
+    "type": "gallery",
+    "id": "d1595709cd5344f26acae97fbb332c6b3daefef105ea6a8591e89dd2730e7dc5i0",
+    "slug": "blockheadz-of-punk-alley"
+  },
+  {
     "name": "Blok Boyz",
     "type": "gallery",
     "id": "5afbf08ac94a88f5476ed5de882669ae3e6f6696b384e11d2c1b1698dad54226i0",
@@ -504,6 +532,12 @@
       "bc5f7ea515822472d6da34d6986e1d1fecd0df865098de79e33d913ab743eb7di0"
     ],
     "slug": "boldinals"
+  },
+  {
+    "name": "BTC Editions by Solemn",
+    "type": "gallery",
+    "id": "2a8d78892418c7627a092551ca002c446751c95bc4c006425879aad27eb2af08i0",
+    "slug": "btceditionsbysolemn"
   },
   {
     "name": "BTC Slugs",
@@ -598,6 +632,14 @@
     "slug": "cursed-screenz"
   },
   {
+    "name": "Cursed, Floored, & Rejected: A Landscape Experiment by CRFTD",
+    "type": "parent",
+    "ids": [
+      "a73f86e49216cef2ec7bf95677f9018c8d5b1e27e5aa642e26c1d00d39abf15ei0"
+    ],
+    "slug": "cursed-floored-rejected"
+  },
+  {
     "name": "CustomMonkes",
     "type": "gallery",
     "id": "d120d1db15ef45bd846ad28d3c399bd63be93b7876412defc29207d40b702801i0",
@@ -666,6 +708,30 @@
     "type": "gallery",
     "id": "4b8955de318f58787cc3149cc8098d6c7a307b4c48573b57258db21219b16623i0",
     "slug": "dmt_vessels"
+  },
+  {
+    "name": "Does AI Dream? All Dreams by CRFTD",
+    "type": "parent",
+    "ids": [
+      "b2210aa19d46703a01c20cd4dd4502e21ba9bc805a2ef7758e1267436110b057i0"
+    ],
+    "slug": "does-ai-dream-all-dreams"
+  },
+  {
+    "name": "Does AI Dream? Beginning to End by CRFTD",
+    "type": "parent",
+    "ids": [
+      "a6d866dc8ed465ae9966604aa8031763b08ffb610db357f4d99f4efddee57ff3i0"
+    ],
+    "slug": "does-ai-dream-beginning-to-end"
+  },
+  {
+    "name": "Does AI Dream? by CRFTD",
+    "type": "parent",
+    "ids": [
+      "179cc091fcb8cb9bc2d1f96abd685e3420833d930a581c97469da113939cf1a7i0"
+    ],
+    "slug": "does-ai-dream"
   },
   {
     "name": "DomoDucks",
@@ -2297,6 +2363,14 @@
       "1a172b5bed6b61be4c937306c9890de17fce87e87a000dc8ffdfa1ca36a73abdi0"
     ],
     "slug": "weapon-of-mass-liberation-by-doct"
+  },
+  {
+    "name": "What is Money, tho? by CRFTD",
+    "type": "parent",
+    "ids": [
+      "f215b464210de2154b03fde9c5463147e5f8cfefd29844d166d7a842aa3cb0f7i0"
+    ],
+    "slug": "what-is-money-tho"
   },
   {
     "name": "Wizzy",
