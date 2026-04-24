@@ -820,6 +820,12 @@
     "slug": "eitobitto"
   },
   {
+    "name": "El Grito Fibz",
+    "type": "gallery",
+    "id": "2df6983b9faaeac3ab5fb5cb17a5690241852ee4e0c5573a4dec0a05194b8ab3i0",
+    "slug": "el_grito_fibz"
+  },
+  {
     "name": "Enigma by CyberSea x Vivid Gallery x OnChainMonkey®",
     "type": "parent",
     "ids": [
@@ -1088,6 +1094,12 @@
       "b90000cc996f948c983c7cd4c22d8a8c753fd6275f505aacb34cd94f4b37ec18i0"
     ],
     "slug": "gyrifract"
+  },
+  {
+    "name": "Halloween Fibz",
+    "type": "gallery",
+    "id": "02f790015ad0005cc35e1153f70f8ccdf59163a6f1eaeab2bb434ec9ef87ea09i0",
+    "slug": "holloween_fibz_collection"
   },
   {
     "name": "Hashrate Hackers",
@@ -2115,6 +2127,12 @@
     "slug": "sportinals-euro"
   },
   {
+    "name": "St. Patties Day Fibz",
+    "type": "gallery",
+    "id": "212b77cc53df2b3b8fee3a5b70ef205f5b69f81fc10a5c680eb9b8bc25308603i0",
+    "slug": "st_patties_day_collection"
+  },
+  {
     "name": "STEPEPES by LORS",
     "type": "parent",
     "ids": [
@@ -2357,6 +2375,12 @@
     "type": "gallery",
     "slug": "ugly_souls",
     "id": "00a7ee747a6845a414dc06d4fbccd282ec84c3749f5061a85b9034dd7fe4e9dei0"
+  },
+  {
+    "name": "Valentine's Day Fibz",
+    "type": "gallery",
+    "id": "bc011b8d0eb02fa1a6b4b533aaffed2d993ab5a2fc7246674f5a319c8a5c04dei0",
+    "slug": "valentines_day_fibz_collection"
   },
   {
     "name": "Villagers",
