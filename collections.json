@@ -2497,6 +2497,54 @@
     "slug": "ufbros"
   },
   {
+    "name": "Ugovi - Alpha/Omega",
+    "type": "parent",
+    "ids": [
+      "a0334cc2a973b89de9cfb89bbdcf271b3b0254f921c614dfb2ec9e6bb3a93cb0i0"
+    ],
+    "slug": "ugovi_alpha_omega"
+  },
+  {
+    "name": "Ugovi - Duopoly - Hal Tribute",
+    "type": "parent",
+    "ids": [
+      "7cf5d4c6d68e45862ee31bea2a8c7912aa8b57940ef2b0780c4739fb8f40830ai0"
+    ],
+    "slug": "ugovi_duopoly_hal_tribute"
+  },
+  {
+    "name": "Ugovi - Elizabeth Tower",
+    "type": "parent",
+    "ids": [
+      "04abfd95131ddb537cc3d9c6096e0f32ddfb9604bd0b156070b506ef0f809f7bi0"
+    ],
+    "slug": "ugovi_elizabeth_tower"
+  },
+  {
+    "name": "Ugovi - Satoshi Construct Tribute",
+    "type": "parent",
+    "ids": [
+      "640c4603791bdbc133457e2d10ed6a81efce59ca750a20c4b3942c247fab88cai0"
+    ],
+    "slug": "ugovi_satoshi_tribute"
+  },
+  {
+    "name": "Ugovi - Woke MAGA",
+    "type": "parent",
+    "ids": [
+      "e8f7cfe6bc5bbf0cbf6b4b266f0e66131ead8b885c264333dbc6c694781ce6a5i0"
+    ],
+    "slug": "ugovi_woke_maga"
+  },
+  {
+    "name": "Ugovi X DABL",
+    "type": "parent",
+    "ids": [
+      "3c77b83104876f8830f29c9ea208092ffab9ed72955479202776aabd352fb528i0"
+    ],
+    "slug": "ugovi_x_dabl"
+  },
+  {
     "name": "UNITY (SNAPSHOT TAKEN)",
     "type": "parent",
     "ids": [
