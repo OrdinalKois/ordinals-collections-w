@@ -698,6 +698,14 @@
     "slug": "commanderdoug"
   },
   {
+    "name": "Cosmogenesis by Steven Morse",
+    "type": "parent",
+    "ids": [
+      "5749d3d27300b3152903118f18b7867cedbc06efc78df1d8c8d0110db182d6b4i0"
+    ],
+    "slug": "cosmogenesis"
+  },
+  {
     "name": "Crypto Freq's",
     "type": "gallery",
     "id": "20d2ead098039d0c0e2795ad0a93cb34592a231758cd0e21e7a71b0fb40e8e9ci0",
@@ -1004,6 +1012,14 @@
       "eabc1e29ec414429f0a75cce899fd912a16487fc12192410abe95a739e1a228fi0"
     ],
     "slug": "floraforms-by-harto"
+  },
+  {
+    "name": "FloraPop by Steven Morse",
+    "type": "parent",
+    "ids": [
+      "aa56f8b51308101a44ad4dc4b6f3a467e0871b419923a357ed59990980e4c0d1i0"
+    ],
+    "slug": "florapop"
   },
   {
     "name": "Fluid Passes",
@@ -1320,6 +1336,14 @@
     "type": "gallery",
     "id": "6d1d545dfcf3b7c3b6bcbe0848765a1b6222d36c88725614a6821afd7ba6c751i0",
     "slug": "leverage"
+  },
+  {
+    "name": "Light Waves: Radio Waves by Kanetix",
+    "type": "parent",
+    "ids": [
+      "4cf83318a41883fae993d8ef17e4c732fccf198ce35a5084f9435a2665527f6di0"
+    ],
+    "slug": "radio-waves"
   },
   {
     "name": "Light Waves: Visible Light by Kanetix",
