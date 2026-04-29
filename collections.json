@@ -121,6 +121,15 @@
     "slug": "101_fleas_by_viola"
   },
   {
+    "name": "12 Days Till Christmas by Kanetix",
+    "type": "parent",
+    "ids": [
+      "b3408d69271229c60995246a4ea38b0cb1d278187921189b7782bfdbd2dbac4fi1",
+      "4077565451ea1c4a711f1a663d5cccbc52acb87046de3bef23235f68164ea4d7i0"
+    ],
+    "slug": "12_days_till_christmas"
+  },
+  {
     "name": "1337 Zeros",
     "type": "parent",
     "ids": [
@@ -147,6 +156,12 @@
     "type": "gallery",
     "id": "d1611d34871948df7ca0e81123f4b020712da572990b50388fcd50c9ab23b77ei0",
     "slug": "4th_of_july_fibz_collection"
+  },
+  {
+    "name": "509 Legendz",
+    "type": "gallery",
+    "id": "9c9e428ab3f61f29caeeb558352f28534844e50f83f324f9a93a254a11ef0394i0",
+    "slug": "509-legendz"
   },
   {
     "name": "5HA5OW5",
@@ -374,10 +389,25 @@
     "slug": "bitcoin_adoption"
   },
   {
+    "name": "Bitcoin Dragon System",
+    "type": "gallery",
+    "id": "ab5d4fbce1db453d12a207e8ee8846936e7b07363e058a3fab594956516e844ai0",
+    "slug": "bitcoindragonsystem"
+  },
+  {
     "name": "Bitcoin Frogs",
     "type": "gallery",
     "id": "659e684ff344c7d7be30bf608e214dcad96596589ddc738bd72e2fed6faf5a62i0",
     "slug": "bitcoin-frogs"
+  },
+  {
+    "name": "Bitcoin is the Future by Kanetix",
+    "type": "parent",
+    "ids": [
+      "eecf7249384a54fe73581a30cda26cc843c2c5220846fb2c282627bedaee7eafi0",
+      "4ad3408e941e21bc5bc15b997b0933c9619dc05f286e6dd61ce0ddac567ebe47i0"
+    ],
+    "slug": "btcisthefuture"
   },
   {
     "name": "Bitcoin Punks",
@@ -540,10 +570,58 @@
     "slug": "boldinals"
   },
   {
+    "name": "BTC Cards",
+    "type": "gallery",
+    "id": "490bfc430aaa332943bd88c9592d62bc9a9f1643557a6aa5e5dfc5622eafe96fi0",
+    "slug": "btc-cards"
+  },
+  {
     "name": "BTC Editions by Solemn",
     "type": "gallery",
     "id": "2a8d78892418c7627a092551ca002c446751c95bc4c006425879aad27eb2af08i0",
     "slug": "btceditionsbysolemn"
+  },
+  {
+    "name": "BTC Gods",
+    "type": "gallery",
+    "id": "ad00e65db2b4aa142e52594a162dc0c8b2c7fa806561e7f398677a868f9408f0i0",
+    "slug": "btc-gods"
+  },
+  {
+    "name": "BTC Machines",
+    "type": "gallery",
+    "id": "eb860b2254c3a7da96ee91e028669343719e8ae4f9f8d2e749f3cad61d3146d3i0",
+    "slug": "btc-machines"
+  },
+  {
+    "name": "BTC Mutant Machine",
+    "type": "gallery",
+    "id": "22004be9ee5657d9dcf9fa02d1cb5b8f4363e2b75ebaa13bc2df0d7659b40190i0",
+    "slug": "btc-mutant-machine"
+  },
+  {
+    "name": "BTC Mutant Scientist",
+    "type": "gallery",
+    "id": "01d1cb2d863100f97b02d77d335ed82e904df2ee3073920a9d2f6050791baff3i0",
+    "slug": "btc-mutant-scientist"
+  },
+  {
+    "name": "BTC Mutant Virus",
+    "type": "gallery",
+    "id": "b4b796645ebfef4cb06237c106b358f40c29994362031e84ec82603fd746206ai0",
+    "slug": "btc-mutant-virus"
+  },
+  {
+    "name": "BTC Operator",
+    "type": "gallery",
+    "id": "9487a3629c5d2bb999cded03d742b091db93acc80272141a47f59e64d0a42220i0",
+    "slug": "btc-operator"
+  },
+  {
+    "name": "BTC Scientist",
+    "type": "gallery",
+    "id": "472bd75e90883490407b2787d7b9a5623f2054623aeac8215dea8222a853e473i0",
+    "slug": "btc-scientist"
   },
   {
     "name": "BTC Slugs",
@@ -804,6 +882,14 @@
       "ae3eb8922223a5729bd14a31244f95ba0054cae710ab8232de2075fc7b1cbe7fi0"
     ],
     "slug": "ducksonchain"
+  },
+  {
+    "name": "Echoes of Midnight on the Ridge by Kanetix",
+    "type": "parent",
+    "ids": [
+      "0f77aa40c5f37cf0c43b2c5c6088919fa2830e2b02730ce4aa812801d1b92722i0"
+    ],
+    "slug": "echoes_of_midnight_on_the_ridge"
   },
   {
     "name": "EdgeFold by RalenArc",
@@ -2211,6 +2297,14 @@
     "type": "gallery",
     "id": "95928fc341ea2a50669e57f291c6a832e49dd83ebb70cf1fe9443fe4f509dd4ei0",
     "slug": "synthesis"
+  },
+  {
+    "name": "System Calls by Kanetix",
+    "type": "parent",
+    "ids": [
+      "5f888cf4bca5e5f835fc8f1e9c85d5fa1cfd30e43b4cb69e45a3d0035394b255i0"
+    ],
+    "slug": "systemcalls"
   },
   {
     "name": "Taproot Punks",
