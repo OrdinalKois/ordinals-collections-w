@@ -85,6 +85,14 @@
     "slug": "on1force_void_drives"
   },
   {
+    "name": "1/1 (2025) by EP",
+    "type": "parent",
+    "ids": [
+      "855da1d3dde758c167a51a86513a75137159f104bea33009c10ce59889b59c1ci0"
+    ],
+    "slug": "1-12025byep"
+  },
+  {
     "name": "1/1 (2025) by PeePs",
     "type": "parent",
     "ids": [
@@ -290,6 +298,15 @@
       "91abf6073453ba2a48400e9fbf86d828371c2ba8e6f3ef0927aba45670d5b68ei0"
     ],
     "slug": "ahbyep"
+  },
+  {
+    "name": "Asymmetric Hallucinations Machine by EP",
+    "type": "parent",
+    "ids": [
+      "f2398efeb7676eb6a149e4342a5c1c1698162ecb0676a0662ad841f7b7f1fb4fi0",
+      "1752e4c19d2307b219a14fb14c5595a63a6c7cb34366f8d5d8d42c3ca7f4eda8i0"
+    ],
+    "slug": "ahmbyep"
   },
   {
     "name": "Atlas by Harto",
@@ -1451,6 +1468,14 @@
     "slug": "mementomori"
   },
   {
+    "name": "Memory Loss by EP",
+    "type": "parent",
+    "ids": [
+      "c663654e47c06386a90a4440b41e803804bdab3bfa05c4a94a098919a1b91a9fi0"
+    ],
+    "slug": "mlbyep"
+  },
+  {
     "name": "Metablends",
     "type": "parent",
     "ids": [
@@ -2542,6 +2567,12 @@
     "type": "gallery",
     "id": "1c69ec47450d49a8ca3e1c88488647e1f0cad8f563a6980d1c4bcb35040028d5i0",
     "slug": "titwifnip-by-ogbe"
+  },
+  {
+    "name": "tOPCATs",
+    "type": "gallery",
+    "id": "4e07bad2b4b51771056024f9faabb53151a54975156cedd2e73b43c18db1a123i0",
+    "slug": "topcats"
   },
   {
     "name": "Trump Bitcoin Digital Trading Cards",
