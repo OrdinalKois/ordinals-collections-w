@@ -329,6 +329,25 @@
     "slug": "bastille_day_fibz_2024_limited_edition"
   },
   {
+    "name": "Be a Fisherman by Artifishal",
+    "type": "parent",
+    "ids": [
+      "26198021558709545d35937651ef134c8c009ccf9e467a5f574e173a00f61233i0",
+      "a3a3ee1ecc974ff6e9251bd54742cccb6df925b72218e9f1067b82d435f2f4f6i0",
+      "f9325d25cb7a936ffdfa424f0f2f82f7efbea3c130727bbe616964feea21ea2ei0",
+      "5e8701ee8ce7180fa9da450800c5e01891a28ae037980d990b8216a6b045f071i0",
+      "e6726fa13ebfe7682b1cf14fa303adb8445c42dd6e05b84b37a4953dfb3a9847i0",
+      "9a0d30b2e660f2743da9be2645fd3c3e679f4d32d6dbc732388606bbd8a344e2i0",
+      "6af48b0f77e6d0d3047480f96c86ad5d49818bdfe43efbb067623543b45045c2i0",
+      "891219419ccfa853884d0abbc9206bd2ccb9eb90931037784e386e55f31a74aei0",
+      "da21881583114e9db855038a132c3406b03671b2db662891515a909aa6403434i0",
+      "380506a02041c8760cbb7f10b7be344d938e5391d6a3b46e975772369e8ace46i0",
+      "5af0ba6003c36dbf8a11b310ccd8901ad3e04f7a240a1f1b5d6cb6bd0a96db58i0",
+      "2ee6f40bebdf8bea3b9d662f2032828c1300d182ec0220ef0e8279d68edba056i0"
+    ],
+    "slug": "beafisherman"
+  },
+  {
     "name": "Be Right Back",
     "type": "parent",
     "ids": [
@@ -938,6 +957,14 @@
       "0f77aa40c5f37cf0c43b2c5c6088919fa2830e2b02730ce4aa812801d1b92722i0"
     ],
     "slug": "echoes_of_midnight_on_the_ridge"
+  },
+  {
+    "name": "Edge of the World by Artifishal",
+    "type": "parent",
+    "ids": [
+      "000d96a6da3c4000ff6936bff7207e6fa57634ced4208d6722da3eb67c6e3752i0"
+    ],
+    "slug": "edgeoftheworld"
   },
   {
     "name": "EdgeFold by RalenArc",
@@ -1739,6 +1766,14 @@
     "slug": "ocgbypeeps"
   },
   {
+    "name": "Only What Feels Like It Must Exist by Artifishal",
+    "type": "parent",
+    "ids": [
+      "2b2f899cbdadbf7e60b7283a96faf8bde23aa22e321cfe71ef146e707a3155b5i0"
+    ],
+    "slug": "owflime"
+  },
+  {
     "name": "OP_BIRD Derivatives",
     "type": "gallery",
     "id": "6bac06fdb3a0129e599807747162e9b7f4689ab81276c021cd08eb219a4d00d7i0",
@@ -2463,6 +2498,14 @@
       "875331b0b58c77af2893c8d6b20a196873d87c81b087c8fe65693c601c857c7ei0"
     ],
     "slug": "the_equinals_by_bitcoin_derby"
+  },
+  {
+    "name": "The Geometry of Dreams by Artifishal",
+    "type": "parent",
+    "ids": [
+      "9d1d61684a6cb1bc0412f796b3e5e465e587c11d0795e97be06319040969090ei0"
+    ],
+    "slug": "thegeometryofdreams"
   },
   {
     "name": "The Glitch",
