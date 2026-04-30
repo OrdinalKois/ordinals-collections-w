@@ -389,6 +389,14 @@
     "slug": "bitcoin_adoption"
   },
   {
+    "name": "Bitcoin Bravocados",
+    "type": "parent",
+    "ids": [
+      "80c50933106c8fc99e245edacb5241a3abd191b192cc891ef5ac0c27e61ed749i0"
+    ],
+    "slug": "bitcoin-bravocados"
+  },
+  {
     "name": "Bitcoin Dragon System",
     "type": "gallery",
     "id": "ab5d4fbce1db453d12a207e8ee8846936e7b07363e058a3fab594956516e844ai0",
