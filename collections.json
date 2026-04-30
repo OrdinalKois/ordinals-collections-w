@@ -861,6 +861,14 @@
     "slug": "derp"
   },
   {
+    "name": "Descent by Kanetix",
+    "type": "parent",
+    "ids": [
+      "e68fb28767d9106819f8a96fd92396c465a0d731419d574c79a79dfe64840ee4i0"
+    ],
+    "slug": "descent"
+  },
+  {
     "name": "Deus Ex Machina by CyberSea X Vivid Gallery",
     "type": "parent",
     "ids": [
@@ -2462,6 +2470,14 @@
     "type": "gallery",
     "id": "3744f92c1eff17e1346644b5e5fb9c55f1d5d9992e6c5764d903c73f6fa46916i0",
     "slug": "tehspace"
+  },
+  {
+    "name": "Tesseract by Kanetix",
+    "type": "parent",
+    "ids": [
+      "1e49848be1059d8f896d8a616381e0536e184a22cadc01e0c38c8d0f7748caa3i0"
+    ],
+    "slug": "lightframes"
   },
   {
     "name": "Thanksgiving Fibz",
