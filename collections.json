@@ -2029,6 +2029,12 @@
     "slug": "planetary-ordinals"
   },
   {
+    "name": "Planetary Primes",
+    "type": "gallery",
+    "id": "89fb830e7f80a30f80f80a79d9dc38966261327438689ffb1ae4bf7fcfe31b74i0",
+    "slug": "planetaryprimes"
+  },
+  {
     "name": "Planets",
     "type": "parent",
     "ids": [
@@ -2067,6 +2073,12 @@
       "6aa9c5ab6924356326f2b18083f79eb473e0e43227d6db09cb03b15e215540c8i0"
     ],
     "slug": "porta-nefesh"
+  },
+  {
+    "name": "Prime Runes",
+    "type": "gallery",
+    "id": "013bdd3f7b7f72c2fab7d0e96cb9df46ae0134187445a23e15a553a395a3bd7ci0",
+    "slug": "prime_runes"
   },
   {
     "name": "Prometheans",
@@ -2605,6 +2617,12 @@
       "965ddbeb2e1ae67908dbfc0368c245a97bcc6c73bbda2dff4214fe3dbba6dd58i0"
     ],
     "slug": "trgm"
+  },
+  {
+    "name": "The Seeker",
+    "type": "gallery",
+    "id": "11b9fac252d211c291423c661c70c2fc4860e65b3b3e776ebafd3a5ab90813bdi0",
+    "slug": "the-seeker"
   },
   {
     "name": "The Wizards of Ord",
