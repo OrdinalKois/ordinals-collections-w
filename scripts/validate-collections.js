@@ -39,12 +39,19 @@ function validateEntries(collections, { label, validKeys, requireIssues, forbidd
     }
 
     const entryIds = entry.id ? [entry.id] : (entry.ids || [])
+    const seenInEntry = new Set()
     for (const id of entryIds) {
-      if (inscriptionIds.has(id)) {
-        error(`[${label}] Duplicate inscription ID: "${id}" (in "${entry.slug}" and "${inscriptionIds.get(id)}")`)
+      if (seenInEntry.has(id)) {
+        error(`[${label}:${entry.slug}] inscription ID "${id}" listed more than once`)
       }
-      inscriptionIds.set(id, entry.slug)
+      seenInEntry.add(id)
     }
+
+    const setKey = [...entryIds].sort().join('|')
+    if (setKey && inscriptionIds.has(setKey)) {
+      error(`[${label}] Duplicate inscription ID set in "${entry.slug}" and "${inscriptionIds.get(setKey)}"`)
+    }
+    inscriptionIds.set(setKey, entry.slug)
   }
 
   // Validate each entry

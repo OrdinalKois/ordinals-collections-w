@@ -178,6 +178,15 @@
     "slug": "5ha5ow5"
   },
   {
+    "name": "6529 Memes: The Great Wave of Decentralization by Kanetix",
+    "type": "parent",
+    "ids": [
+      "eecf7249384a54fe73581a30cda26cc843c2c5220846fb2c282627bedaee7eafi0",
+      "2c19fce410f8b34609299541b9963bc8ca63090d171b672bfda4eb9843689f9di0"
+    ],
+    "slug": "great-wave"
+  },
+  {
     "name": "A Solemn Rose",
     "type": "parent",
     "ids": [
@@ -208,6 +217,12 @@
       "f1435e237e8ae4f6ca6763baec63cbd7f1d197e8a4faec08c367e0403b029313i0"
     ],
     "slug": "airhead"
+  },
+  {
+    "name": "Alien Ordinal Artifacts",
+    "type": "gallery",
+    "id": "37489f034043abb60dcf887feb4852faedaf4f7aa85ff2f2a301ce8fb2b31c71i0",
+    "slug": "aoa"
   },
   {
     "name": "Alien Ordinal Artifacts: Second Edition",
@@ -990,6 +1005,14 @@
     "slug": "ducksonchain"
   },
   {
+    "name": "Dumb&Dead Dinos",
+    "type": "parent",
+    "ids": [
+      "7d105bc29074d9e2bc0e79fa96a0679c0f4209918879729cec4ef1e66c70c97ai0"
+    ],
+    "slug": "dumb-dead-dinos"
+  },
+  {
     "name": "Echoes of Midnight on the Ridge by Kanetix",
     "type": "parent",
     "ids": [
@@ -1518,6 +1541,12 @@
       "0f01c8ec6b2eda6e1ff2a70720122ea6a8ecccf0dfb12b6052ea664a3fe1763bi0"
     ],
     "slug": "lbm"
+  },
+  {
+    "name": "Lil Sapos",
+    "type": "gallery",
+    "id": "0df97516973f10d90082d0677dd19e82411ba9fc4a82b66ad740b1e41acf5c09i0",
+    "slug": "lil-sapos"
   },
   {
     "name": "Loboverse",
