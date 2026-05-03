@@ -2060,6 +2060,12 @@
     "slug": "ordinalsigmax"
   },
   {
+    "name": "Ordinals Artnet",
+    "type": "gallery",
+    "id": "de4544758287999e3d034641058f219e43aedeead407930748da4d7f08df6bb3i0",
+    "slug": "ordartnet"
+  },
+  {
     "name": "ORDINALS CENTRAL PARK - Sketched PFPs by Viola MissCode",
     "type": "parent",
     "ids": [
