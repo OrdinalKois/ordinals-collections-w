@@ -1133,11 +1133,9 @@
     "slug": "entangled-realms"
   },
   {
-    "name": "ENTROPY by Nullish",
-    "type": "parent",
-    "ids": [
-      "5f009be725a5afa1b921e2cc5617461ebf8ecba96f2f85134c6ca9bc2878a12fi0"
-    ],
+    "name": "Entropy by Nullish",
+    "type": "gallery",
+    "id": "457721b16a1312950781a0386bbd75ea51c9b0ea99595924353ccdf8a0cf1072i0",
     "slug": "entropy"
   },
   {
