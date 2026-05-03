@@ -2778,6 +2778,12 @@
     "slug": "missingpieces"
   },
   {
+    "name": "The Missing Pieces : J.O.E",
+    "type": "gallery",
+    "id": "5a8f84b1fdbba7310b19e46d02ce8b877507181dca711bcf57fb737bdb094f6di0",
+    "slug": "missing-pieces"
+  },
+  {
     "name": "The OctoGlyphs",
     "type": "parent",
     "ids": [
