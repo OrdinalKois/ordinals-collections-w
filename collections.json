@@ -415,6 +415,14 @@
     "slug": "boaf"
   },
   {
+    "name": "Birds of a Generative",
+    "type": "parent",
+    "ids": [
+      "86c8774a017cb7411c49a668a4c1860c339313b72507f01e1e27850d00f7bdd2i0"
+    ],
+    "slug": "boag"
+  },
+  {
     "name": "Bit Rioters by Viola MissCode",
     "type": "gallery",
     "id": "75610f5675fcc901012fa3fb248b52e37919169b89b10a0121f0bad25a0f34dai0",
