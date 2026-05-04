@@ -271,7 +271,7 @@
     "slug": "antimatter"
   },
   {
-    "name": "Apoptosis",
+    "name": "Apoptosis by OTO",
     "type": "gallery",
     "id": "3dc4623dd9ac1aaaa2cb6172ab3ec8922b085b995cdb7c30012d8d861a2fb3fai0",
     "slug": "apoptosis"
@@ -455,7 +455,7 @@
     "slug": "bitboy_one_genesis"
   },
   {
-    "name": "Bitco MIMI",
+    "name": "Bitco MIMI by OTO",
     "type": "gallery",
     "id": "99fb58d048ef42ada4475b23b082a6595e48203c0fa14f5223a802c335b07ea1i0",
     "slug": "bitco-mimi"
@@ -672,7 +672,7 @@
     "slug": "blueprints_elementlee"
   },
   {
-    "name": "BMP / FUZZ",
+    "name": "BMP / FUZZ by OTO",
     "type": "gallery",
     "id": "fd11de5cd542acce5dba1653768e77723677141ceb5bbb0c898ea41c7fa3133bi0",
     "slug": "bmp-fuzz"
@@ -1139,7 +1139,7 @@
     "slug": "enigma-by-cybersea"
   },
   {
-    "name": "Entangled Realms",
+    "name": "Entangled Realms by OTO",
     "type": "gallery",
     "id": "63392cdc265a25b42f63ad561def2523448b8ab5f3c7f120cde771f19722acdci0",
     "slug": "entangled-realms"
@@ -1189,7 +1189,7 @@
     "slug": "exquisite"
   },
   {
-    "name": "FACTORY / FUZZ",
+    "name": "FACTORY / FUZZ by OTO",
     "type": "gallery",
     "id": "ff81efa86fd52a729072d8c764d6bcc04a3b407d6ddee2cd1cf1449ac59c1d86i0",
     "slug": "factory-fuzz"
@@ -1299,7 +1299,7 @@
     "slug": "fusion"
   },
   {
-    "name": "G1 / D6 / I0 / A1",
+    "name": "G1 / D6 / I0 / A1 by OTO",
     "type": "gallery",
     "id": "5078e3b3be9c438e12396a272d5664ebfa1fa3cac32440d26a67ab94f06a6dfci0",
     "slug": "g1-d6-i0-a1"
@@ -1343,7 +1343,7 @@
     "slug": "genskullz"
   },
   {
-    "name": "Ghost Echoes",
+    "name": "Ghost Echoes by OTO",
     "type": "gallery",
     "id": "1f995ec2e8ee6c4806c04837fbcb613baf16a65c70bb6cc0f154e96ddda36400i0",
     "slug": "ghost-echoes"
@@ -1731,7 +1731,7 @@
     "slug": "mikan"
   },
   {
-    "name": "MIMIBITS Poetry",
+    "name": "MIMIBITS Poetry by OTO",
     "type": "gallery",
     "id": "45c0c8b6d551ce21ff7f3e42ba7b95e52fa78cb290cfa158c6358bca37162f2fi0",
     "slug": "mimibits-poetry"
@@ -1749,7 +1749,7 @@
     "slug": "mongoose_on_bitcoin"
   },
   {
-    "name": "Monoliths",
+    "name": "Monoliths by OTO",
     "type": "gallery",
     "id": "cab04ebf8c0d9793c9ff6b551e53082b1e873fa0fb169a798cce0d14ca9f46f3i0",
     "slug": "monoliths"
@@ -2070,7 +2070,7 @@
     "slug": "omb"
   },
   {
-    "name": "Ordinal MIMI",
+    "name": "Ordinal MIMI by OTO",
     "type": "gallery",
     "id": "9ca1e4e7feaf3b08487679e6420d84b63753c781891b0a315b8c98ff28edf226i0",
     "slug": "ordinal-mimi"
@@ -2160,16 +2160,16 @@
     "slug": "tism"
   },
   {
-    "name": "Originals",
-    "type": "gallery",
-    "id": "f4ddfc50505544dd05b5d9bd94f2950ad56b098ab5dcd8c86afd3074f302ba0bi0",
-    "slug": "originals-oto"
-  },
-  {
     "name": "ORIGINALS 1/1s for Prints/Editions \"2023-2025\" by Viola MissCode",
     "type": "gallery",
     "id": "90529ea04b07c0e55314bf84ef322df730ecdcf6250e4c245618efc6431ece5ei0",
     "slug": "originals_by_viola_misscode"
+  },
+  {
+    "name": "Originals by OTO",
+    "type": "gallery",
+    "id": "f4ddfc50505544dd05b5d9bd94f2950ad56b098ab5dcd8c86afd3074f302ba0bi0",
+    "slug": "originals-oto"
   },
   {
     "name": "ORPEPES 5000",
@@ -2336,7 +2336,7 @@
     "slug": "prometheans"
   },
   {
-    "name": "Pulsar",
+    "name": "Pulsar by OTO",
     "type": "gallery",
     "id": "45c13fbd7fa54546b18340ab69b3d0a57acb37c509e4bbee3978ae2366ec732ei0",
     "slug": "pulsar"
@@ -2742,7 +2742,7 @@
     "slug": "symphoniesbyep"
   },
   {
-    "name": "Synthesis",
+    "name": "Synthesis by OTO",
     "type": "gallery",
     "id": "95928fc341ea2a50669e57f291c6a832e49dd83ebb70cf1fe9443fe4f509dd4ei0",
     "slug": "synthesis"
