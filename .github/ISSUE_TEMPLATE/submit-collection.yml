@@ -1,0 +1,48 @@
+name: Submit Collection
+description: Add a new collection to ordinals-collections
+labels: ["submission"]
+body:
+  - type: markdown
+    attributes:
+      value: One collection per issue. Open multiple issues for multiple collections. Use the issue title as your collection name.
+
+  - type: dropdown
+    id: type
+    attributes:
+      label: Collection Type
+      description: |
+        **Gallery**: items are listed inside a single gallery inscription.
+        **Parent**: items are child inscriptions of one or more parent inscription(s).
+      options:
+        - gallery
+        - parent
+    validations:
+      required: true
+
+  - type: textarea
+    id: inscription_ids
+    attributes:
+      label: Inscription ID(s)
+      description: |
+        Gallery: a single gallery inscription ID.
+        Parent: one parent inscription ID per line.
+      placeholder: "e.g. 0e383b8af3e7f8767bc9ec0a48fbf837d82b0d537f4dbc7a8853e6828112ea41i0"
+    validations:
+      required: true
+
+  - type: input
+    id: slug
+    attributes:
+      label: Slug
+      description: "Use the exact same slug as your collection on Magic Eden or Satflow. This is the part after /ordinals/ in your collection URL (e.g. magiceden.us/ordinals/marketplace/quantum-cats → quantum-cats)."
+      placeholder: "e.g. quantum-cats"
+    validations:
+      required: true
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Additional Info
+      description: "Any extra context — links to your collection on marketplaces, notes about the submission, etc."
+    validations:
+      required: false

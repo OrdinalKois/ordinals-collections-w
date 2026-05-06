@@ -2,6 +2,10 @@
 
 Curated on-chain data of Ordinals collections.
 
+### Submitting a Collection
+
+[**Open an issue**](../../issues/new?template=submit-collection.yml) with your collection details. Fill out the form and CI will automatically validate your submission. A maintainer will review and merge it.
+
 ### Data Format
 
 Each entry includes:
@@ -30,15 +34,6 @@ Each entry includes:
 ]
 ```
 
-### Submitting a Collection
-
-1. Add your entry to [`collections.json`](collections.json)
-2. Run `node scripts/format-collections.js` to sort and trim whitespace
-3. Run `node scripts/validate-collections.js` to validate
-4. Open a PR
-
-CI will automatically validate your entry on push.
-
 ### Inclusion Criteria
 
 - **Parent/child**: All children must share the same parent(s)
@@ -49,6 +44,10 @@ CI will automatically validate your entry on push.
 
 - [ord/ord](https://github.com/ordinals/ord) — Ordinals reference client
 - [The Wizards of Ord Inscriber](https://inscribe.dev) — Supports creating galleries directly from [Magic Eden collection JSON files](legacy/collections) ([demo](https://x.com/lifofifo/status/2021279780667036069))
+
+### Needs Info
+
+[`collections-needs-info.json`](collections-needs-info.json) tracks galleries where the inscription contains all the correct inscription IDs but has other issues such as incorrect collection title, missing inscription titles or traits, or other metadata problems. Each entry includes an `issues` array documenting what needs fixing.
 
 ### Legacy Data
 
